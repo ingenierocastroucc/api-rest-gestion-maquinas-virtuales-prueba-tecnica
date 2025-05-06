@@ -267,6 +267,31 @@ Asegúrate de tener los archivos de **tablas** y **semillas** listos y ejecútal
 ```json
 {}
 ```
+## 🚀 Ejecución de los Endpoints
+
+### **POST**
+
+![image](https://github.com/user-attachments/assets/c79fdbd8-34ce-440f-9fb0-2c394a65fad2)
+
+### **GET**
+![image](https://github.com/user-attachments/assets/0cdc00d9-e35a-468e-956b-ad2fa2eb9b13)
+
+### **GET/id**
+
+![image](https://github.com/user-attachments/assets/8dbe1b65-62b5-490b-b713-7e42fcb688c1)
+
+### **POST/registro**
+
+![image](https://github.com/user-attachments/assets/31d610a1-f291-4d9a-82cd-a877236f7aea)
+
+### **PUT**
+
+![image](https://github.com/user-attachments/assets/eb4b637b-84bb-48c1-8fc9-9b45b170bdde)
+
+### **DELETE**
+
+![image](https://github.com/user-attachments/assets/4acac5e0-8e96-49ae-9783-b464e2f1493b)
+
 
 ## 📬 Contacto
 
