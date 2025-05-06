@@ -139,6 +139,12 @@ La siguiente es una estructura recomendada para organizar tu API RESTful en .NET
 - `/Configurations` → Configuraciones para JWT, Swagger, servicios, CORS, etc.
 - `/Helpers` → Utilidades, funciones auxiliares y clases de apoyo
 
+### 6. Crear la base de datos y ejecutar los scripts
+
+Para la ejecución correcta del proyecto, debes crear una base de datos llamada **VMManagerDB** en tu servidor de SQL Server. Luego, ejecuta los archivos de tablas y semillas para configurar la estructura y los datos iniciales.
+
+Asegúrate de tener los archivos de **tablas** y **semillas** listos y ejecútalos en la base de datos **VMManagerDB**.
+
 ## 📝 Ejemplos de Solicitudes y Respuestas JSON
 
 ### **POST** `/api/auth/login`
