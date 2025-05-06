@@ -134,10 +134,8 @@ La siguiente es una estructura recomendada para organizar tu API RESTful en .NET
 - `/Services` → Lógica de negocio desacoplada de los controladores
 - `/Middleware` → Middleware personalizados (por ejemplo: validación de roles, manejo de errores)
 - `/Data` → Configuración del DbContext y acceso a la base de datos (EF Core)
-- `/SignalR` → Hubs para comunicación en tiempo real vía WebSockets (opcional)
-- `/wwwroot` → Archivos estáticos
-- `/Configurations` → Configuraciones para JWT, Swagger, servicios, CORS, etc.
-- `/Helpers` → Utilidades, funciones auxiliares y clases de apoyo
+- `/Hubs` → Hubs para comunicación en tiempo real vía WebSockets (opcional)
+
 
 ### 6. Crear la base de datos y ejecutar los scripts
 
