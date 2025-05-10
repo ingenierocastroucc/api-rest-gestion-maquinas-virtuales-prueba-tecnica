@@ -52,26 +52,6 @@ Se utiliza JWT para autenticar usuarios. El token incluye el rol del usuario par
 
 Utilizando **SignalR** para enviar notificaciones a los clientes cada vez que una VM es creada, actualizada o eliminada. Esto permite mantener sincronizadas las interfaces sin necesidad de recarga manual.
 
----
-
-## 💻 Frontend Recomendado
-
-Puedes desarrollar el frontend usando:
-
-- Angular
-- React
-- Blazor
-- ASP.NET MVC o Razor Pages
-
-### Funcionalidades clave
-
-- Formulario de login con `email` y `password`.
-- Crear/Editar/Eliminar VM (solo visible para Administradores).
-- Lista de VMs con datos actualizados en tiempo real.
-- Protección de vistas según el rol obtenido del JWT.
-
----
-
 ## ▶️ Cómo Ejecutar el Proyecto
 
 ### 1. Clonar el repositorio
